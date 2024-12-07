@@ -1457,6 +1457,12 @@
           "url": "https://squabbles.io/s/aww",
           "official": false,
           "added_ts": 1687281017596
+        },
+        {
+          "service": "lemmy",
+          "url": "https://aww.now",
+          "official": false,
+          "added_ts": 1733540421
         }
       ]
     },
